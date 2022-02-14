@@ -1,0 +1,28 @@
+_repo: Twenty-Talks-to-Teachers_67315
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sanders, Thomas E.
+    birthdate: 1868
+    gutenberg_agent_id: '53388'
+    url: http://www.gutenberg.org/2009/agents/53388
+description: ''
+gutenberg_issued: '2022-02-04'
+identifiers:
+  gutenberg: '67315'
+language: en
+pgterms:marc904: https://archive.org/details/twentytalkstotea00sand/
+pgterms:marc905: 20200828215931sanders
+pgterms:marc906: '1908'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :The Teachers Co-operative Company,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Twenty Talks to Teachers
+url: http://www.gutenberg.org/ebooks/67315
